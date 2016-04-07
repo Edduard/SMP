@@ -6,20 +6,22 @@ capatul liniei.
 Dupa ce casa este desenata utilizatorul poate avea optiunea sa inchida si sa deschida usa de la casa, urmand un fel de
 animatie care sa arate acest lucru urmat de un sunet care sa atentioneze utilizatorul ca procesul a fost executat.
 
+
+
 Pentru notare, programul contine:
 
-Mediul de programare/execu?ie:
-- program x86 pe 16 bi?i în EMU8086: 1p
+Mediul de programare/executie:
+- program x86 pe 16 biti în EMU8086: 1p
 Tastatura:
 - pentru introducere valori (scanf, textbox): 1p
 Grafica:
 -grafica simpla 3D: 3p
-Alte func?ii:
-- anima?ie: 1p
+Alte functii:
+- animatie: 1p
 - sunet: 1p
-Nefunc?ionale:
+Nefunctionale:
 - comentarii/indentare: 1p (2p pentru programe foarte bine documentate)
-- utilizare sistem de control al versiunilor (exemplu: mercurial, git): 1p
+- utilizare sistem de control al versiunilor (exemplu: mercurial, git): 1p  LINK GIT: https://github.com/SpedsT/SMP.git
 - aducerea temei mai devreme de saptamâna a 8-a: 1p
 
 TOTAL: 10p
